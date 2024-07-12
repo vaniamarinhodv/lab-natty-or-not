@@ -23,17 +23,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de um acatar de apresentação usando IA Generativa sem código de programação 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Clonagem de voz
+Imagem
+Tecnologia:Aplicação de Criação de IAs e scripts Virbo
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1-Escolha de uma aplicação de IA:Virbo
+2-Seleção de uma imagem png
+3-Gravação de voz para que a IA desse vida à imagem png
+4h Transcrição para vídeo 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
+https://www.canva.com/design/DAGKsJbZ0a0/0wY0RsRaun7mMGUl2JTedw/edit?utm_content=DAGKsJbZ0a0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
